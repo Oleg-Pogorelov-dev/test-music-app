@@ -5,6 +5,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 WARNING! THIS APP SHOULD BE RUN ONLY AFTER THE FIRST ONE (MUSIC-APP-TEST_TASK) on [http://localhost:3000](http://localhost:3000) 
 In the project directory, you can run:
 
+### `npm i`
+to install required modules
+
+Then:
 ### `npm start`
 
 Runs the app in the development mode.<br />
